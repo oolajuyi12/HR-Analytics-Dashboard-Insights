@@ -1,7 +1,7 @@
 ## HR Analytics Dashboard Insights
 
 ### Dashboard Link: https://app.powerbi.com/groups/me/reports/90f17bff-3382-4f3f-aae0-558509833f2a/ReportSection?experience=power-bi
-
+[View the Power BI Report](https://app.powerbi.com/groups/me/reports/90f17bff-3382-4f3f-aae0-558509833f2a/ReportSection?experience=power-bi)
 
 ## Project Overview
 
